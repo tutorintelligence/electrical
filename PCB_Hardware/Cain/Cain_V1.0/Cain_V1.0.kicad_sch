@@ -1,0 +1,536 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a6f3a972-4b98-4ef5-94a6-5eec20dfd371")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 69.85 62.23) (xy 83.82 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11b2671e-7dd3-4f25-9a1f-8e9041681299")
+	)
+	(wire
+		(pts
+			(xy 69.85 20.32) (xy 83.82 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b250a5a-e6b6-4486-b4b9-eeac9c432226")
+	)
+	(wire
+		(pts
+			(xy 69.85 27.94) (xy 83.82 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cf76cc3-57de-4924-a410-ba7072d38337")
+	)
+	(wire
+		(pts
+			(xy 111.76 105.41) (xy 111.76 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67ca9bf8-0aeb-4fcf-8192-51cc9c0f767b")
+	)
+	(wire
+		(pts
+			(xy 69.85 25.4) (xy 83.82 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82e8521d-07b9-40bd-82ed-3933eee79682")
+	)
+	(wire
+		(pts
+			(xy 135.89 21.59) (xy 149.86 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92949dd3-b677-424a-89b4-496241b8bcb4")
+	)
+	(wire
+		(pts
+			(xy 116.84 105.41) (xy 116.84 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4f128fa-4f42-4383-8da2-5cab77bfbcb3")
+	)
+	(wire
+		(pts
+			(xy 135.89 54.61) (xy 149.86 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c835a1da-36ee-42b0-b0b6-ece4ab23614c")
+	)
+	(wire
+		(pts
+			(xy 69.85 22.86) (xy 83.82 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d09948f3-2af5-4605-ad43-70e34943bd2a")
+	)
+	(sheet
+		(at 13.97 58.42)
+		(size 55.88 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ebcb54f-9ecb-4888-9feb-5883a77ef194")
+		(property "Sheetname" "Current Sense"
+			(at 13.97 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Current_Sense.kicad_sch"
+			(at 13.97 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ADC2{slash}Current" input
+			(at 69.85 62.23 0)
+			(uuid "080a8cd8-ab98-4276-91cd-cd2765d4e2ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 16.51)
+		(size 34.29 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "700b0411-a285-4288-9249-7ca4bfff729e")
+		(property "Sheetname" "Solenoid"
+			(at 149.86 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Solenoid.kicad_sch"
+			(at 149.86 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Solenoid" input
+			(at 149.86 21.59 180)
+			(uuid "ecd45fe6-2722-4144-8fb4-bca77edfcba4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 118.11)
+		(size 52.07 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7a41e948-753a-42e6-b4cc-adeefe44f3c2")
+		(property "Sheetname" "EEPROM"
+			(at 83.82 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EEPROM.kicad_sch"
+			(at 83.82 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "EEPROM_SCL" input
+			(at 111.76 118.11 90)
+			(uuid "ccd00b4b-06ab-40c5-83a8-ea16305342d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EEPROM_SDA" input
+			(at 116.84 118.11 90)
+			(uuid "b83283aa-007c-41f1-b127-bb67036ce159")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 16.51)
+		(size 52.07 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8548d8a1-f30f-4404-ac5e-05de01248d12")
+		(property "Sheetname" "MCU"
+			(at 83.82 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 83.82 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BOOT0" input
+			(at 83.82 20.32 180)
+			(uuid "b17aa2c5-1a42-47c3-a285-60c8254ebbf5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN2_RX" input
+			(at 83.82 27.94 180)
+			(uuid "0852e7ff-2f3a-4498-9778-dd2e4669ed21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN2_TX" input
+			(at 83.82 25.4 180)
+			(uuid "01266ec4-e501-4e32-9a09-fca9a901726b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "NRST" input
+			(at 83.82 22.86 180)
+			(uuid "f0c9b82d-0719-40e6-8305-9ed5efdf45dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EEPROM_SCL" input
+			(at 111.76 105.41 270)
+			(uuid "ef7392f6-d6f4-4a07-95d3-49d0a6443a68")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EEPROM_SDA" input
+			(at 116.84 105.41 270)
+			(uuid "44ed56b5-56ed-4dcd-9f5e-7c1cb943ea24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Solenoid" input
+			(at 135.89 21.59 0)
+			(uuid "99ac216f-d05e-47cc-ba7a-14a93e39afda")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC1{slash}Pressure" input
+			(at 135.89 54.61 0)
+			(uuid "eb22d7c6-feb0-4c59-b264-2064187bcb8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC2{slash}Current" input
+			(at 83.82 62.23 180)
+			(uuid "8b2598a9-64e0-4fa1-850c-fa953c7e8020")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 16.51)
+		(size 55.88 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e71eb02e-ce08-4112-af29-c609d6e66a8e")
+		(property "Sheetname" "CAN2.0/Power"
+			(at 13.97 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN2.0.kicad_sch"
+			(at 13.97 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN2_RX" input
+			(at 69.85 27.94 0)
+			(uuid "204fc1ea-b930-491c-a8ec-d462edd23a59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN2_TX" input
+			(at 69.85 25.4 0)
+			(uuid "02673f41-8f52-4c01-ac72-6a488193c4d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BOOT0" input
+			(at 69.85 20.32 0)
+			(uuid "e5759a11-6b06-49cf-a852-9fae7ee45ec1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "NRST" input
+			(at 69.85 22.86 0)
+			(uuid "0a7fd43a-6b4e-4b28-b55f-6f40ba1d3470")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 49.53)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6e2cb17-1138-48eb-a773-4877d9aeee7d")
+		(property "Sheetname" "Pressure Sensor"
+			(at 149.86 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pressure_Sensor.kicad_sch"
+			(at 149.86 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ADC1{slash}Pressure" input
+			(at 149.86 54.61 180)
+			(uuid "d4ca70f7-91c1-434f-b935-f1b65c6466e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Cain_V1.0"
+				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
