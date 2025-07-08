@@ -1,0 +1,826 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3b2348ba-8b31-4b25-9d4d-64f66293ce1c")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 50.8 63.5) (xy 63.5 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26c6d4fb-f66c-4172-948b-db5a6479be9e")
+	)
+	(wire
+		(pts
+			(xy 50.8 91.44) (xy 101.6 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b6f2be8-30e8-429c-b753-f500cb70aca8")
+	)
+	(wire
+		(pts
+			(xy 50.8 41.91) (xy 101.6 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e1fb91d-80e9-4c8d-80c5-131ef29a7a8a")
+	)
+	(wire
+		(pts
+			(xy 50.8 66.04) (xy 63.5 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb0b316-90b7-42bb-9db8-0f3a3dca2d94")
+	)
+	(wire
+		(pts
+			(xy 50.8 46.99) (xy 101.6 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46a7340e-c98e-490d-9ede-84dad2a462da")
+	)
+	(wire
+		(pts
+			(xy 50.8 34.29) (xy 101.6 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54975b38-35f8-4933-b404-6a20b26867f6")
+	)
+	(wire
+		(pts
+			(xy 50.8 26.67) (xy 101.6 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bc3e545-48d9-4734-9521-cf1649b400f1")
+	)
+	(wire
+		(pts
+			(xy 50.8 24.13) (xy 101.6 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "899dc083-bc71-4519-8987-078e4ada863d")
+	)
+	(wire
+		(pts
+			(xy 50.8 44.45) (xy 101.6 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd45727a-5ada-4b84-86f4-d9b8626af96c")
+	)
+	(wire
+		(pts
+			(xy 50.8 21.59) (xy 101.6 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cea45435-7220-4ff2-a44a-ab8c9cd158ef")
+	)
+	(wire
+		(pts
+			(xy 50.8 39.37) (xy 101.6 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9e1cfce-071c-4281-80f0-38883de1b656")
+	)
+	(wire
+		(pts
+			(xy 50.8 31.75) (xy 101.6 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed79fb77-5816-4df3-8f84-03630f9487da")
+	)
+	(wire
+		(pts
+			(xy 50.8 93.98) (xy 101.6 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f99c071a-302e-4c9b-831a-150e97bc2228")
+	)
+	(sheet
+		(at 15.24 17.78)
+		(size 35.56 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2a9e6674-9de8-493b-8f66-0414afaa2b8f")
+		(property "Sheetname" "Ethernet"
+			(at 15.24 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet.kicad_sch"
+			(at 15.24 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ETH_CRS_DV" input
+			(at 50.8 44.45 0)
+			(uuid "e1939a9e-abf0-47cf-bc8e-0c9e5cc2c8a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_MDC" input
+			(at 50.8 39.37 0)
+			(uuid "dec22bad-02fc-4b7e-b69e-52d8865f6939")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_MDIO" input
+			(at 50.8 41.91 0)
+			(uuid "4eb69cd9-b19a-4297-af37-0a7943b5ed8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_REF_CLK" input
+			(at 50.8 46.99 0)
+			(uuid "4d22f5be-b08b-4ebf-b956-b10c0af10921")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_RXD0" input
+			(at 50.8 31.75 0)
+			(uuid "455b816f-d010-493d-aacb-5f603047b7f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_RXD1" input
+			(at 50.8 34.29 0)
+			(uuid "6cb38330-8103-490a-8af4-dd075fbb7a10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_TXD0" input
+			(at 50.8 21.59 0)
+			(uuid "d3813ce0-f395-49ec-8e15-48513893fa48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_TXD1" input
+			(at 50.8 24.13 0)
+			(uuid "ae799fa6-2b4f-4bd4-a903-2931247072bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_TX_EN" input
+			(at 50.8 26.67 0)
+			(uuid "09aa3e6c-892f-4e91-bfa9-ccdf3807d369")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PHY_PWR" input
+			(at 50.8 52.07 0)
+			(uuid "42f16231-23a3-48fd-8e14-0fc94a9f03e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "V-" input
+			(at 50.8 66.04 0)
+			(uuid "6f711890-d255-4216-8f3f-6f43666bea49")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "V+" input
+			(at 50.8 63.5 0)
+			(uuid "01499281-c0cb-4782-9e23-95abc81b9403")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 17.78)
+		(size 52.07 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "99c1f9e4-f10a-4b07-87f7-63ddc6306732")
+		(property "Sheetname" "PWM Generator"
+			(at 165.1 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWM_Generator.kicad_sch"
+			(at 165.1 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CH0" input
+			(at 217.17 21.59 0)
+			(uuid "df39911e-2a0e-4390-9845-a87d1ad74119")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH1" input
+			(at 217.17 24.13 0)
+			(uuid "4b87062b-3717-472f-b512-63fbb96cd7b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH2" input
+			(at 217.17 26.67 0)
+			(uuid "22b7c5d3-1009-473c-bf30-83c65955021d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH3" input
+			(at 217.17 29.21 0)
+			(uuid "85b6be1b-709f-49db-a094-fdcdd312f96d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH4" input
+			(at 217.17 31.75 0)
+			(uuid "9228db40-cac9-41ad-baf6-6cd2edc786ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH5" input
+			(at 217.17 34.29 0)
+			(uuid "3a94590b-abb4-444f-be39-6b0bd4e29870")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH6" input
+			(at 217.17 36.83 0)
+			(uuid "1aaa3a3a-47fd-4733-a50d-1688b6e46f90")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH7" input
+			(at 217.17 39.37 0)
+			(uuid "6134556f-f375-4777-885d-6d69d91c1bd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH8" input
+			(at 217.17 41.91 0)
+			(uuid "9cd12e6a-be89-424c-aeac-40dff69760f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH9" input
+			(at 217.17 44.45 0)
+			(uuid "14098855-bc9a-48ab-b1dd-b3fa51aecada")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH10" input
+			(at 217.17 46.99 0)
+			(uuid "d5eb0af0-8db2-4646-b83b-dc51b72fde6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CH11" input
+			(at 217.17 49.53 0)
+			(uuid "e8309b87-70ca-4685-a5b9-86e03de1c074")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_OE" input
+			(at 165.1 29.21 180)
+			(uuid "48a6af1b-8901-4518-ba64-ed431b015ed1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_SCL" input
+			(at 165.1 21.59 180)
+			(uuid "34d84cf3-ffeb-475c-9685-770fbb3bc6af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_SDA" input
+			(at 165.1 24.13 180)
+			(uuid "42c07bf6-1b69-45b6-9a19-a27fc62dedbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 85.09)
+		(size 35.56 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a3f40476-062f-4b6e-a13e-70e6b38ff0d9")
+		(property "Sheetname" "USB"
+			(at 15.24 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 15.24 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" input
+			(at 50.8 91.44 0)
+			(uuid "26c6d216-52e8-47b9-95be-72f59fefbc76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" input
+			(at 50.8 93.98 0)
+			(uuid "871c59df-a43b-45ec-944a-6d3095c8eef4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 57.15)
+		(size 25.4 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b546f243-98db-442f-ab23-e14401affc25")
+		(property "Sheetname" "POE"
+			(at 63.5 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POE.kicad_sch"
+			(at 63.5 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "V+" input
+			(at 63.5 63.5 180)
+			(uuid "2ef25aef-7706-46c7-8957-51911c0a2931")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "V-" input
+			(at 63.5 66.04 180)
+			(uuid "72740360-ffbf-49b5-bc98-5e8ce4b3d78d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 17.78)
+		(size 50.8 91.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea01a141-48de-45b5-8279-9c02551ff125")
+		(property "Sheetname" "MCU"
+			(at 101.6 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 101.6 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ETH_CRS_DV" input
+			(at 101.6 44.45 180)
+			(uuid "b368f45d-529e-4c50-ba85-271d7bca92c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_MDC" input
+			(at 101.6 39.37 180)
+			(uuid "1b8c2ea6-df5f-4212-bd7e-3d4ef37947d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_MDIO" input
+			(at 101.6 41.91 180)
+			(uuid "f396bbf4-6042-446a-ac5e-0bc7361e6dbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_REF_CLK" input
+			(at 101.6 46.99 180)
+			(uuid "0b35fd73-f6da-4cad-9eb5-8d1338a52cb0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_RXD0" input
+			(at 101.6 31.75 180)
+			(uuid "f00be28d-931f-4da3-98e4-7fed17c66571")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_RXD1" input
+			(at 101.6 34.29 180)
+			(uuid "aaba8784-ce7d-444e-b983-3c28cda80bff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_TXD0" input
+			(at 101.6 21.59 180)
+			(uuid "252673b8-5e3b-40e7-9acb-e5476c3e01ef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_TXD1" input
+			(at 101.6 24.13 180)
+			(uuid "e7b04971-a60e-41a6-b95c-16854de9405e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ETH_TX_EN" input
+			(at 101.6 26.67 180)
+			(uuid "647be3ce-d45b-43b8-bd47-f0c43e92cfa7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D+" input
+			(at 101.6 91.44 180)
+			(uuid "0d247266-6b3f-4cb9-8c44-b4ce2fb4b5a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D-" input
+			(at 101.6 93.98 180)
+			(uuid "85168f5c-1c52-41af-8366-2a77013cc94d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_VBUS" input
+			(at 101.6 99.06 180)
+			(uuid "e3f5f30d-67dd-4101-bbaf-b3d7f76d0634")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 114.3)
+		(size 35.56 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb0c9394-3c20-4001-a815-db078aa51265")
+		(property "Sheetname" "Power"
+			(at 15.24 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 15.24 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Fan_Eve_V1.0"
+				(path "/3b2348ba-8b31-4b25-9d4d-64f66293ce1c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

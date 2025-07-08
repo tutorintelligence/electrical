@@ -1811,6 +1811,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "CAN 2.0 / Power"
+		(exclude_from_sim no)
+		(at 85.598 28.448 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 1.25)
+			)
+		)
+		(uuid "0479aa12-d879-4f54-816e-9b4d65188009")
+	)
 	(junction
 		(at 190.5 88.9)
 		(diameter 0)
@@ -1912,6 +1923,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df7dc432-93ef-4a9a-91d9-21d71c21f6dc")
+	)
+	(no_connect
+		(at 176.53 114.3)
+		(uuid "c29d51e0-d8cd-4639-9628-d493cb31c0dc")
 	)
 	(wire
 		(pts
@@ -2175,26 +2190,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 114.3) (xy 172.72 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45f440a2-ed7e-4824-baf1-2d1765047ecd")
-	)
-	(wire
-		(pts
-			(xy 172.72 111.76) (xy 170.18 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4766c7a5-fa6c-444f-8ce5-c143c94c1d69")
-	)
-	(wire
-		(pts
 			(xy 166.37 81.28) (xy 161.29 81.28)
 		)
 		(stroke
@@ -2212,16 +2207,6 @@
 			(type default)
 		)
 		(uuid "4c01f185-6abf-4a9c-b5e9-73a0f4d1de5d")
-	)
-	(wire
-		(pts
-			(xy 170.18 111.76) (xy 170.18 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c882a4d-00f6-489d-bc55-f8b418e8e0c2")
 	)
 	(wire
 		(pts
@@ -2685,16 +2670,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 114.3) (xy 172.72 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3ed360c-3405-4d13-87da-ae2f66c9e026")
-	)
-	(wire
-		(pts
 			(xy 176.53 116.84) (xy 152.4 116.84)
 		)
 		(stroke
@@ -2911,7 +2886,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C434419"
 			(at 154.94 82.55 0)
 			(effects
 				(font
@@ -2921,6 +2896,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 154.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 154.94 82.55 0)
 			(effects
 				(font
@@ -3073,7 +3057,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C434419"
 			(at 210.82 82.55 0)
 			(effects
 				(font
@@ -3083,6 +3067,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 210.82 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 210.82 82.55 0)
 			(effects
 				(font
@@ -3295,7 +3288,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 83.82 101.6 0)
 			(effects
 				(font
@@ -3305,6 +3298,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 83.82 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 83.82 101.6 0)
 			(effects
 				(font
@@ -3381,7 +3383,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C152727"
 			(at 134.62 106.68 0)
 			(effects
 				(font
@@ -3391,6 +3393,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 134.62 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 134.62 106.68 0)
 			(effects
 				(font
@@ -3472,7 +3483,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 86.36 81.28 0)
 			(effects
 				(font
@@ -3482,6 +3493,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 86.36 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 86.36 81.28 0)
 			(effects
 				(font
@@ -3624,7 +3644,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C4109"
 			(at 220.98 82.55 90)
 			(effects
 				(font
@@ -3634,6 +3654,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 220.98 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 220.98 82.55 90)
 			(effects
 				(font
@@ -3664,7 +3693,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4601c11f-444f-484d-9e2f-b4b2be091e1a")
 		(property "Reference" "TP2"
@@ -3722,6 +3751,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 166.37 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 166.37 80.01 0)
 			(effects
 				(font
@@ -3863,7 +3901,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1091"
 			(at 95.25 105.41 0)
 			(effects
 				(font
@@ -3873,6 +3911,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 95.25 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 95.25 105.41 0)
 			(effects
 				(font
@@ -3950,7 +3997,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C561584"
 			(at 199.39 88.9 90)
 			(effects
 				(font
@@ -3960,6 +4007,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 199.39 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 199.39 88.9 90)
 			(effects
 				(font
@@ -4038,7 +4094,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 97.79 81.28 0)
 			(effects
 				(font
@@ -4048,6 +4104,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 97.79 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 97.79 81.28 0)
 			(effects
 				(font
@@ -4260,7 +4325,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C46596299"
 			(at 109.22 93.98 0)
 			(effects
 				(font
@@ -4270,6 +4335,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 109.22 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 109.22 93.98 0)
 			(effects
 				(font
@@ -4364,7 +4438,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C152727"
 			(at 163.83 130.81 0)
 			(effects
 				(font
@@ -4374,6 +4448,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 163.83 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 163.83 130.81 0)
 			(effects
 				(font
@@ -4654,7 +4737,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C75464"
 			(at 166.37 88.9 90)
 			(effects
 				(font
@@ -4664,6 +4747,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 166.37 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 166.37 88.9 90)
 			(effects
 				(font
@@ -4694,7 +4786,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "91953ea8-f8df-45cd-833b-9b0371d2fa8e")
 		(property "Reference" "TP9"
@@ -4760,6 +4852,15 @@
 				(hide yes)
 			)
 		)
+		(property "Price" ""
+			(at 210.82 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f02894d7-f0fb-4cf0-a38f-3ac0e9e210d8")
 		)
@@ -4779,7 +4880,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a5d87aa6-5d07-43ed-bfe7-30b682a05240")
 		(property "Reference" "TP4"
@@ -4837,6 +4938,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 195.58 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 195.58 114.3 0)
 			(effects
 				(font
@@ -5044,7 +5154,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C4109"
 			(at 144.78 82.55 90)
 			(effects
 				(font
@@ -5054,6 +5164,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 144.78 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 144.78 82.55 90)
 			(effects
 				(font
@@ -5129,7 +5248,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C157975"
 			(at 181.61 91.44 0)
 			(effects
 				(font
@@ -5139,6 +5258,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 181.61 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 181.61 91.44 0)
 			(effects
 				(font
@@ -5253,7 +5381,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d95f11d0-7963-4701-869f-02346ee49808")
 		(property "Reference" "TP5"
@@ -5319,6 +5447,15 @@
 				(hide yes)
 			)
 		)
+		(property "Price" ""
+			(at 210.82 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ddad857-dc5b-4b11-b0d0-73e800de640c")
 		)
@@ -5326,73 +5463,6 @@
 			(project "Cain_V1.0"
 				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371/e71eb02e-ce08-4112-af29-c609d6e66a8e"
 					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 170.18 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dba6f291-ea11-4cb6-8f18-969ea65f3f19")
-		(property "Reference" "#PWR045"
-			(at 170.18 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.18 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e9f2b70-6375-4bce-bec5-a62bee61b66b")
-		)
-		(instances
-			(project "Cain_V1.0"
-				(path "/a6f3a972-4b98-4ef5-94a6-5eec20dfd371/e71eb02e-ce08-4112-af29-c609d6e66a8e"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -5518,7 +5588,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C157975"
 			(at 181.61 114.3 0)
 			(effects
 				(font
@@ -5528,6 +5598,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 181.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 181.61 114.3 0)
 			(effects
 				(font

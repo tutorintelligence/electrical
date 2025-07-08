@@ -1,0 +1,60 @@
+2025-06-26 09:11:28,347 [INFO] WebApp:194 - Connection lost
+2025-06-26 09:11:28,757 [INFO] WebApp:191 - Connection restablished
+2025-06-26 14:00:19,780 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:19,790 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:19,863 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:19,863 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:19,864 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:19,864 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:20,074 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:20,075 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:20,080 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:20,080 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,889 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,889 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,902 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,902 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,902 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,902 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,953 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,953 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,954 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-26 14:00:58,954 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-26 17:05:34,633 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2025-06-26 17:05:34,677 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2025-06-26 17:05:34,695 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,724 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,724 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,725 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,826 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-26 17:05:34,908 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-26 17:05:34,945 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,945 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,955 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,980 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,980 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,980 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,981 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,981 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,981 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,981 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,981 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,982 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,982 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-26 17:05:34,990 [INFO] ADCParametersView:116 -                Rank 1 : false

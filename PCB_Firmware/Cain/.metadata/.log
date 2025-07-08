@@ -1,0 +1,33 @@
+!SESSION 2025-06-25 14:53:55.684 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-25 14:54:53.041
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-25 14:54:53.042
+!MESSAGE Log4j2 initialized with config file C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-25 14:54:55.178
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-06-25 16:01:47.175 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-25 16:01:53.510
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-25 16:01:53.511
+!MESSAGE Log4j2 initialized with config file C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-25 16:01:55.582
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-25 16:05:44.415
+!MESSAGE Indexed 'Cain_V1.0' (17 sources, 78 headers) in 1.58 sec: 3,809 declarations; 15,939 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.01%)

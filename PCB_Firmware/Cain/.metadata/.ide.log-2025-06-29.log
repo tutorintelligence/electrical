@@ -1,0 +1,47 @@
+2025-06-29 20:47:27,745 [INFO] WebApp:194 - Connection lost
+2025-06-29 20:48:53,613 [INFO] WebApp:191 - Connection restablished
+2025-06-29 20:51:46,346 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:51:46,346 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:51:46,347 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:51:46,347 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:52:36,128 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:52:36,128 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:52:36,128 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:52:36,128 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:05,157 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:05,157 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:05,157 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:05,157 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:13,297 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:13,299 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:13,299 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:13,299 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:22,102 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:22,103 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:22,103 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:22,103 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:26,683 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:26,683 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:26,683 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:53:26,683 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:54:07,258 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:54:07,258 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:54:07,258 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:54:07,258 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:32,405 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:32,405 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:32,405 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:32,405 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:37,745 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:37,745 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:37,745 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:37,745 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-06-29 20:59:48,360 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 271612528 Bytes (772800512)
+2025-06-29 20:59:48,670 [ERROR] ConfigurationRetriever:142 - IOException on connection: No subject alternative DNS name matching sw-center.st.com found.
+2025-06-29 20:59:48,687 [ERROR] ConfigurationRetriever:142 - IOException on connection: No subject alternative DNS name matching sw-center.st.com found.
+2025-06-29 20:59:48,703 [ERROR] ConfigurationRetriever:142 - IOException on connection: No subject alternative DNS name matching sw-center.st.com found.
+2025-06-29 20:59:48,849 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching stmicroelectronics.d3.sc.omtrdc.net found.
+2025-06-29 20:59:48,863 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching stmicroelectronics.d3.sc.omtrdc.net found.
+2025-06-29 20:59:48,875 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching stmicroelectronics.d3.sc.omtrdc.net found.
+2025-06-29 20:59:48,890 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching stmicroelectronics.d3.sc.omtrdc.net found.
+2025-06-29 20:59:48,904 [ERROR] AdobePublisher:162 - Exception while opening the connection: javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching stmicroelectronics.d3.sc.omtrdc.net found.

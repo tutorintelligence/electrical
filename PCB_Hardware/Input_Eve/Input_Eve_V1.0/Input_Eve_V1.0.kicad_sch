@@ -1,0 +1,350 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "519cd8d4-bb93-4bd2-8d6d-fc5bc7100516")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 191.77 60.96)
+		(size 45.72 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "236fb5d9-91b2-4974-a082-905da78f3197")
+		(property "Sheetname" "RS232"
+			(at 191.77 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS232.kicad_sch"
+			(at 191.77 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 102.87)
+		(size 41.91 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2acab2f7-df2f-40fc-ae7d-2a02477ddc5f")
+		(property "Sheetname" "Power"
+			(at 15.24 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 15.24 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 68.58)
+		(size 41.91 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "32262b9b-f3a7-465b-94e0-98f5d04b485b")
+		(property "Sheetname" "USB"
+			(at 15.24 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 15.24 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 191.77 16.51)
+		(size 45.72 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34612951-0131-4aa2-b67b-9fc877e14dfe")
+		(property "Sheetname" "RS485"
+			(at 191.77 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS425.kicad_sch"
+			(at 191.77 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 16.51)
+		(size 68.58 111.76)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "64e3fbc5-9949-4822-b50b-448cb8e592a7")
+		(property "Sheetname" "MCU"
+			(at 111.76 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 111.76 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 36.83)
+		(size 30.48 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a83ae373-583f-44fb-90d0-9d456fdd2774")
+		(property "Sheetname" "POE"
+			(at 68.58 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POE.kicad_sch"
+			(at 68.58 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 248.92 16.51)
+		(size 33.02 82.55)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c84ffb47-57ab-4169-8148-8e46607c6b53")
+		(property "Sheetname" "External Sensors"
+			(at 248.92 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 248.92 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 16.51)
+		(size 41.91 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb1bc762-7984-40bb-a51e-208769594922")
+		(property "Sheetname" "Ethernet"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet.kicad_sch"
+			(at 15.24 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

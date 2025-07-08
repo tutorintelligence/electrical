@@ -3676,6 +3676,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 32.004 24.892 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 1.25)
+			)
+		)
+		(uuid "6a5d9e84-8049-4d6e-8ac6-fbc46362a59c")
+	)
 	(junction
 		(at 143.51 49.53)
 		(diameter 0)
@@ -5655,7 +5666,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 90.17 44.45 0)
 			(effects
 				(font
@@ -5665,6 +5676,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 90.17 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 90.17 44.45 0)
 			(effects
 				(font
@@ -5743,7 +5763,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C4109"
 			(at 109.22 128.27 0)
 			(effects
 				(font
@@ -5753,6 +5773,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 109.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 109.22 128.27 0)
 			(effects
 				(font
@@ -5896,7 +5925,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C2888455"
 			(at 196.85 78.74 0)
 			(effects
 				(font
@@ -5906,6 +5935,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 196.85 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 196.85 78.74 0)
 			(effects
 				(font
@@ -5984,7 +6022,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C25744"
 			(at 181.61 73.66 0)
 			(effects
 				(font
@@ -5994,6 +6032,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 181.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 181.61 73.66 0)
 			(effects
 				(font
@@ -6072,7 +6119,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C4109"
 			(at 182.88 121.92 0)
 			(effects
 				(font
@@ -6082,6 +6129,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 182.88 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 182.88 121.92 0)
 			(effects
 				(font
@@ -6160,7 +6216,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C2935953"
 			(at 218.44 139.7 0)
 			(effects
 				(font
@@ -6170,6 +6226,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 218.44 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 218.44 139.7 0)
 			(effects
 				(font
@@ -6272,7 +6337,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 171.45 44.45 0)
 			(effects
 				(font
@@ -6282,6 +6347,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 171.45 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 171.45 44.45 0)
 			(effects
 				(font
@@ -6426,7 +6500,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C52923"
 			(at 73.66 78.74 0)
 			(effects
 				(font
@@ -6436,6 +6510,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 73.66 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 73.66 78.74 0)
 			(effects
 				(font
@@ -6512,7 +6595,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C113030"
 			(at 181.61 39.37 90)
 			(effects
 				(font
@@ -6522,6 +6605,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 181.61 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 181.61 39.37 90)
 			(effects
 				(font
@@ -6800,7 +6892,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C52923"
 			(at 88.9 78.74 0)
 			(effects
 				(font
@@ -6810,6 +6902,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 88.9 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 88.9 78.74 0)
 			(effects
 				(font
@@ -6888,7 +6989,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 102.87 44.45 0)
 			(effects
 				(font
@@ -6898,6 +6999,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 102.87 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 102.87 44.45 0)
 			(effects
 				(font
@@ -7043,7 +7153,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 191.77 44.45 0)
 			(effects
 				(font
@@ -7053,6 +7163,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 191.77 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 191.77 44.45 0)
 			(effects
 				(font
@@ -7129,7 +7248,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C25744"
 			(at 111.76 73.66 90)
 			(effects
 				(font
@@ -7139,6 +7258,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 111.76 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 111.76 73.66 90)
 			(effects
 				(font
@@ -7217,7 +7345,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 77.47 44.45 0)
 			(effects
 				(font
@@ -7227,6 +7355,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 77.47 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 77.47 44.45 0)
 			(effects
 				(font
@@ -7434,7 +7571,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C965834"
 			(at 50.8 106.68 0)
 			(effects
 				(font
@@ -7444,6 +7581,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 50.8 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 50.8 106.68 0)
 			(effects
 				(font
@@ -7526,7 +7672,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C25076"
 			(at 77.47 111.76 90)
 			(effects
 				(font
@@ -7536,6 +7682,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 77.47 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 77.47 111.76 90)
 			(effects
 				(font
@@ -7689,7 +7844,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C434419"
 			(at 109.22 119.38 90)
 			(effects
 				(font
@@ -7699,6 +7854,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 109.22 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 109.22 119.38 90)
 			(effects
 				(font
@@ -7776,7 +7940,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C19666"
 			(at 66.04 44.45 0)
 			(effects
 				(font
@@ -7786,6 +7950,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 66.04 44.45 0)
 			(effects
 				(font
@@ -7998,7 +8171,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C25744"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -8008,6 +8181,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 63.5 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -8084,7 +8266,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C1211"
 			(at 69.85 106.68 90)
 			(effects
 				(font
@@ -8094,6 +8276,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 69.85 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 69.85 106.68 90)
 			(effects
 				(font
@@ -8305,7 +8496,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C4109"
 			(at 175.26 121.92 0)
 			(effects
 				(font
@@ -8315,6 +8506,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 175.26 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 175.26 121.92 0)
 			(effects
 				(font
@@ -8592,7 +8792,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 115.57 44.45 0)
 			(effects
 				(font
@@ -8602,6 +8802,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 115.57 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 115.57 44.45 0)
 			(effects
 				(font
@@ -8678,7 +8887,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C37328854"
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -8688,6 +8897,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 104.14 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -8772,7 +8990,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 127 44.45 0)
 			(effects
 				(font
@@ -8782,6 +9000,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 127 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 127 44.45 0)
 			(effects
 				(font
@@ -8861,7 +9088,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C8349"
 			(at 143.51 99.06 0)
 			(effects
 				(font
@@ -8871,6 +9098,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 143.51 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 143.51 99.06 0)
 			(effects
 				(font
@@ -9265,7 +9501,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C115962"
 			(at 81.28 72.39 0)
 			(effects
 				(font
@@ -9275,6 +9511,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 81.28 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 81.28 72.39 0)
 			(effects
 				(font
@@ -9351,7 +9596,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C1211"
 			(at 60.96 101.6 90)
 			(effects
 				(font
@@ -9361,6 +9606,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 60.96 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 60.96 101.6 90)
 			(effects
 				(font
@@ -9506,7 +9760,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" " C1525"
 			(at 44.45 63.5 0)
 			(effects
 				(font
@@ -9516,6 +9770,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 44.45 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 44.45 63.5 0)
 			(effects
 				(font
@@ -9661,7 +9924,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
+		(property "JLCPCB Part Number" "C15525"
 			(at 158.75 44.45 0)
 			(effects
 				(font
@@ -9671,6 +9934,15 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 158.75 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
 			(at 158.75 44.45 0)
 			(effects
 				(font
