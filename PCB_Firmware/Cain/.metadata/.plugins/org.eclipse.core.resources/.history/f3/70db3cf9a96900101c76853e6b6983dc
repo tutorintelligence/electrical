@@ -1,0 +1,42 @@
+/*
+ * Cain.C
+ *
+ *  Created on: Jul 24, 2025
+ *      Author: David Bascom
+ *     Company: Tutor Intelligence
+ */
+
+#include "Cain.h"
+
+
+/*
+ * Private Variables
+ */
+
+uint16_t adcData[ADC_NUM_CONV];
+
+
+/*
+ * Inits
+ */
+
+Cain_Init(Cain_Board *dev, ADC_HandleTypeDef adcHandle) {
+
+	dev->adcHandle		= adcHandle;
+	dev->pressure		= 0.0f;
+	dev->current		= 0.0f;
+	dev->temp			= 0.0f;
+
+
+
+
+}
+
+ADC_Init(ADC_HandleTypeDef adcHandle) {
+
+	HAL_ADCEx_Calibration_Start(adcHandle);
+
+	HAL_ADC_Start_DMA(adcHandle, (uint32_t*) adcData, ADC_NUM_CONV);
+
+	HAL_TIM_Base_Start();
+}

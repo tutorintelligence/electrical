@@ -1,0 +1,36 @@
+/*
+ * Cain.h
+ *
+ *  Created on: Jul 24, 2025
+ *      Author: David Bascom
+ *     Company: Tutor Intelligence
+ */
+
+#ifndef INC_CAIN_H_
+#define INC_CAIN_H_
+
+/*
+ * Includes
+ */
+
+#include "stm32f1xx_hal.h"
+
+
+/*
+ * Defines
+ */
+
+#define ADC_NUM_CONV 	3
+
+
+/*
+ * Inits
+ */
+
+HAL_Status_Type_Def Cain_Init();
+
+
+
+
+
+#endif /* INC_CAIN_H_ */

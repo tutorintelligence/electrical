@@ -1,0 +1,85 @@
+2025-07-21 09:09:54,120 [INFO] WebApp:194 - Connection lost
+2025-07-21 09:09:55,418 [INFO] WebApp:191 - Connection restablished
+2025-07-21 09:09:55,851 [INFO] WebApp:194 - Connection lost
+2025-07-21 09:09:55,983 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:31:33,971 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:31:34,584 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:31:46,736 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:31:46,859 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:59:17,423 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:59:17,735 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:59:19,371 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:59:19,525 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:59:29,769 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:59:29,891 [INFO] WebApp:191 - Connection restablished
+2025-07-21 14:33:46,306 [INFO] WebApp:194 - Connection lost
+2025-07-21 14:33:46,945 [INFO] WebApp:191 - Connection restablished
+2025-07-21 18:12:47,732 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:12:47,735 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:12:47,858 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:12:47,982 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:00,787 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:00,787 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:00,925 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:01,023 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:32,620 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:32,621 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:32,756 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:13:32,859 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:25,547 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:25,547 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:25,695 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:25,803 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:48,841 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:48,841 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:49,011 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:15:49,123 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:35,034 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:35,034 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:55,547 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:55,548 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:55,704 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:16:55,853 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:18:48,102 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:18:55,870 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:18:59,622 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:19:06,094 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:19:21,159 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:19:44,475 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-21 18:20:28,637 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:20:28,638 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:20:28,798 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:20:28,915 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:20:50,244 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:20:50,244 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:21:12,254 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:21:12,255 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:23:44,371 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 838299712 Bytes (1013972992)
+2025-07-21 18:45:22,832 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:22,834 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:23,075 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:23,217 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:30,359 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:30,360 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:30,602 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:30,742 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:34,827 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:34,828 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:35,002 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:35,130 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:39,197 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:39,197 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:39,350 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:45:39,471 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:46:55,867 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:46:55,868 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:46:56,075 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:46:56,245 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:47:02,596 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:47:02,596 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:47:02,773 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:47:02,914 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:51:47,472 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:51:47,472 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:51:47,705 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-21 18:51:47,835 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.

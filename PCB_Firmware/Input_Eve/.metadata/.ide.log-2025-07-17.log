@@ -1,0 +1,35 @@
+2025-07-17 09:29:15,686 [INFO] WebApp:194 - Connection lost
+2025-07-17 09:29:17,355 [INFO] WebApp:191 - Connection restablished
+2025-07-17 14:01:04,314 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:04,318 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:22,434 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:22,435 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:40,637 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:40,638 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:43,242 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:43,242 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:53,974 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:01:53,974 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:06,673 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:06,673 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:09,665 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:09,665 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:25,583 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:02:25,584 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:08,628 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:08,629 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:12,961 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:12,962 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:13,093 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:13,202 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:15,658 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:15,659 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:15,771 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:05:15,884 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:06:04,755 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 430686064 Bytes (1013972992)
+2025-07-17 14:06:50,616 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-17 14:06:54,058 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-17 14:45:51,806 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-17 14:46:01,347 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-17 16:00:27,389 [INFO] Mcu:1682 - InternalPropertyChange: try BijectiveRequest:Full-Duplex Master
+2025-07-17 16:00:44,870 [INFO] I2cTimingTraitement:330 - 0x10707DBC

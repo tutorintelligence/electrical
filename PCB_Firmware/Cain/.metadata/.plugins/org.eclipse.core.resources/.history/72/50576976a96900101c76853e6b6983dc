@@ -1,0 +1,23 @@
+/*
+ * Cain.C
+ *
+ *  Created on: Jul 24, 2025
+ *      Author: David Bascom
+ *     Company: Tutor Intelligence
+ */
+
+#include "Cain.h"
+
+
+/*
+ * Private Variables
+ */
+
+uint16_t adcData[ADC_NUM_CONV];
+
+
+/*
+ * Inits
+ */
+
+Cain_Init(hadc1);

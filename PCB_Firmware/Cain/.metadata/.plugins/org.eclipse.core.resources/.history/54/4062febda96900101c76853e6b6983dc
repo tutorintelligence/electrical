@@ -1,0 +1,47 @@
+/*
+ * Cain.h
+ *
+ *  Created on: Jul 24, 2025
+ *      Author: David Bascom
+ *     Company: Tutor Intelligence
+ */
+
+#ifndef INC_CAIN_H_
+#define INC_CAIN_H_
+
+#include "stm32f1xx_hal.h"
+
+
+/*
+ * Defines
+ */
+
+#define ADC_NUM_CONV 	3
+
+/*
+ * Structs
+ */
+
+typedef struct {
+
+	ADC_HandleTypeDef *adcHandle;
+
+	float pressure;
+	float current;
+	float temp;
+
+} Cain_Board;
+
+/*
+ * Inits
+ */
+
+HAL_Status_Type_Def Cain_Init(Cain_Board *dev, ADC_HandleTypeDef adcHandle);
+
+HAL_Status_Type_Def ADC_Init(ADC_HandleTypeDef adcHandle);
+
+
+
+
+
+#endif /* INC_CAIN_H_ */

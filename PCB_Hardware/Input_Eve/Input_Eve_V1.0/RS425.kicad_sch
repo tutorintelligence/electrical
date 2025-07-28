@@ -5,6 +5,171 @@
 	(uuid "c8d969ac-feab-4332-b814-e932a67c6383")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:Conn_01x02_Socket"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Socket"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Socket_1_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -0.508 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -0.508)
+					(mid -0.5058 0)
+					(end 0 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -3.048)
+					(mid -0.5058 -2.54)
+					(end 0 -2.032)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1017,6 +1182,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 93.98) (xy 186.69 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc716bb-acc7-4c77-8ac4-e426cda74266")
+	)
+	(wire
+		(pts
 			(xy 177.8 104.14) (xy 182.88 104.14)
 		)
 		(stroke
@@ -1067,6 +1242,36 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 104.14) (xy 186.69 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "351590ed-3914-4374-ab1a-7c2831db6357")
+	)
+	(wire
+		(pts
+			(xy 193.04 139.7) (xy 195.58 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4628005b-706f-4903-a134-c3e2106a8793")
+	)
+	(wire
+		(pts
+			(xy 185.42 142.24) (xy 185.42 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "543320ea-5972-4ea7-b93c-b76f1bbd1ebc")
+	)
+	(wire
+		(pts
 			(xy 163.83 74.93) (xy 163.83 76.2)
 		)
 		(stroke
@@ -1107,6 +1312,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 137.16) (xy 193.04 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c8914d9-9b52-45a0-891e-7114c2c68ba3")
+	)
+	(wire
+		(pts
 			(xy 182.88 93.98) (xy 186.69 93.98)
 		)
 		(stroke
@@ -1137,6 +1352,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 143.51) (xy 193.04 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82adc1ba-39a5-47a9-83aa-08f7632797a0")
+	)
+	(wire
+		(pts
 			(xy 153.67 101.6) (xy 151.13 101.6)
 		)
 		(stroke
@@ -1157,6 +1382,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 133.35) (xy 185.42 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0118254-99a0-4b76-b3f3-45f4bf6fa9c3")
+	)
+	(wire
+		(pts
 			(xy 177.8 93.98) (xy 182.88 93.98)
 		)
 		(stroke
@@ -1164,6 +1399,16 @@
 			(type default)
 		)
 		(uuid "a8379051-a8b4-4447-9676-5f79a3fc2f05")
+	)
+	(wire
+		(pts
+			(xy 186.69 100.33) (xy 195.58 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9f45330-d086-422e-9dcf-3a6f125a0e49")
 	)
 	(wire
 		(pts
@@ -1184,6 +1429,36 @@
 			(type default)
 		)
 		(uuid "ac8e040e-759a-4a5f-80f8-02931cb8bd16")
+	)
+	(wire
+		(pts
+			(xy 193.04 137.16) (xy 193.04 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad2e8993-7d18-4bc5-a95b-485af2e3546a")
+	)
+	(wire
+		(pts
+			(xy 185.42 133.35) (xy 185.42 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ce4ab2-ad7a-48fc-a9b0-56c89dbbb25a")
+	)
+	(wire
+		(pts
+			(xy 193.04 143.51) (xy 193.04 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5e5c37b-b4f2-430c-acf9-38f7f644f2c5")
 	)
 	(wire
 		(pts
@@ -1244,6 +1519,16 @@
 			(type default)
 		)
 		(uuid "de2885fc-7952-44a3-8f3f-b090f242717c")
+	)
+	(wire
+		(pts
+			(xy 186.69 97.79) (xy 195.58 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df910e6b-4bdc-4efb-a6de-fcaaea9655fe")
 	)
 	(wire
 		(pts
@@ -1315,6 +1600,46 @@
 		)
 		(uuid "ffd00b5a-f769-481b-8fac-2b07a212ca2f")
 	)
+	(label "Term+"
+		(at 185.42 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0767d5f8-d3d3-4e72-adee-5618f97e3947")
+	)
+	(label "RS485-"
+		(at 187.96 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "740c083d-1741-4964-a0e8-750ddeff730b")
+	)
+	(label "RS485+"
+		(at 187.96 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e241cde-6f6b-423a-9f87-ec3e8586bbdd")
+	)
+	(label "Term-"
+		(at 185.42 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffed21c0-2f46-460c-894d-129fe919b454")
+	)
 	(hierarchical_label "RS485_DE"
 		(shape input)
 		(at 119.38 101.6 180)
@@ -1325,28 +1650,6 @@
 			(justify right)
 		)
 		(uuid "94c040b0-5166-4846-8a15-88ddfcd392d9")
-	)
-	(hierarchical_label "RS485+"
-		(shape input)
-		(at 186.69 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be4b8f09-65c3-4ab4-b509-0546dd5f4236")
-	)
-	(hierarchical_label "RS485-"
-		(shape input)
-		(at 186.69 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c9abae1f-d353-4956-8e2d-d0df3e08b9fa")
 	)
 	(hierarchical_label "RS485_TX"
 		(shape input)
@@ -1380,7 +1683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15d90e76-68dd-4ef2-929a-7c5e016d8c9f")
-		(property "Reference" "R42"
+		(property "Reference" "R38"
 			(at 123.19 107.9499 0)
 			(effects
 				(font
@@ -1434,7 +1737,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "R42")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -1450,7 +1753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "316f52cf-1584-46fb-9fde-369cfad97324")
-		(property "Reference" "R43"
+		(property "Reference" "R39"
 			(at 132.08 107.9499 0)
 			(effects
 				(font
@@ -1504,7 +1807,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "R43")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -1520,7 +1823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "389a8969-b8ce-40af-a07e-ce7c12a75ca8")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR059"
 			(at 163.83 78.74 0)
 			(effects
 				(font
@@ -1570,7 +1873,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR044")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -1586,7 +1889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d679c91-6ab9-4f42-b6ce-ad7b0861f2a8")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR060"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -1636,7 +1939,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR048")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -1652,7 +1955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a42de88-26ec-47fa-90b6-b9dbd7552d4e")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR063"
 			(at 120.65 121.92 0)
 			(effects
 				(font
@@ -1703,7 +2006,76 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR050")
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 185.42 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c7e5d62-c6ec-49bc-bb07-0e428496ebf4")
+		(property "Reference" "R71"
+			(at 187.96 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120"
+			(at 187.96 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 183.642 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 185.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58bdaad2-bd46-4971-8ac2-afe054fa669f")
+		)
+		(pin "1"
+			(uuid "64c7ed33-c6ed-4121-a6c5-dbf87d8ea0e3")
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -1719,7 +2091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4edf6cf7-11b5-4cc3-b4a3-e5734a80c25b")
-		(property "Reference" "C29"
+		(property "Reference" "C44"
 			(at 157.48 80.0099 0)
 			(effects
 				(font
@@ -1728,7 +2100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 157.48 82.5499 0)
 			(effects
 				(font
@@ -1773,7 +2145,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "C29")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -1789,7 +2161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5515bdad-e5cf-4cdc-8de4-1a4de912c8e7")
-		(property "Reference" "R39"
+		(property "Reference" "R36"
 			(at 185.42 87.6299 0)
 			(effects
 				(font
@@ -1843,7 +2215,77 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "R39")
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 200.66 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "555d958e-e861-4f63-a9c2-16192b96e653")
+		(property "Reference" "J35"
+			(at 201.93 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 201.93 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+			(at 200.66 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 200.66 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d55df8a5-b909-4d8d-8f4e-faf46032bb0b")
+		)
+		(pin "2"
+			(uuid "fd583f1c-813f-4a1f-a8d2-422fa77fa1bf")
+		)
+		(instances
+			(project ""
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
+					(reference "J35")
 					(unit 1)
 				)
 			)
@@ -1929,7 +2371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "859f7ab5-66b4-450a-97f6-4797ba0a2741")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR064"
 			(at 163.83 127 0)
 			(effects
 				(font
@@ -1980,7 +2422,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR046")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -1996,7 +2438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91bca19f-fc75-46ac-b477-d37b6a509986")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR062"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -2047,7 +2489,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR047")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -2063,7 +2505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b68da6ec-d545-4174-add3-c9f5a556da6d")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR061"
 			(at 153.67 92.71 0)
 			(effects
 				(font
@@ -2114,7 +2556,77 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "#PWR045")
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 200.66 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cba7d243-c4f1-446f-b2ef-55a1c2112ba8")
+		(property "Reference" "J37"
+			(at 201.93 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 201.93 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+			(at 200.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 200.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e94062ed-cabe-49eb-bb8e-e6564eae48ac")
+		)
+		(pin "2"
+			(uuid "7494fb83-0073-4412-b266-dc74bcfcce49")
+		)
+		(instances
+			(project "Input_Eve_V1.0"
+				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
+					(reference "J37")
 					(unit 1)
 				)
 			)
@@ -2130,7 +2642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbec73b6-74ad-4de3-a434-7dee1e19fd38")
-		(property "Reference" "U8"
+		(property "Reference" "U9"
 			(at 165.9733 86.36 0)
 			(effects
 				(font
@@ -2202,7 +2714,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "U8")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -2217,7 +2729,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dbedac9a-8bfc-4c03-acf7-91d858431ce0")
-		(property "Reference" "R41"
+		(property "Reference" "R37"
 			(at 180.34 98.298 0)
 			(effects
 				(font
@@ -2271,7 +2783,7 @@
 		(instances
 			(project "Input_Eve_V1.0"
 				(path "/519cd8d4-bb93-4bd2-8d6d-fc5bc7100516/34612951-0131-4aa2-b67b-9fc877e14dfe"
-					(reference "R41")
+					(reference "R37")
 					(unit 1)
 				)
 			)

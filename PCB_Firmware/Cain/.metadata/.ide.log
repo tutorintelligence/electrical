@@ -1,6 +1,112 @@
-2025-07-06 08:45:25,661 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2025-07-06 08:45:27,668 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2025-07-06 08:45:28,660 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2025-07-06 08:45:29,670 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2025-07-06 08:45:30,642 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
-2025-07-06 08:45:30,644 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-07-25 09:20:41,324 [INFO] WebApp:194 - Connection lost
+2025-07-25 09:20:42,736 [INFO] WebApp:191 - Connection restablished
+2025-07-25 09:20:43,716 [INFO] WebApp:194 - Connection lost
+2025-07-25 09:20:43,857 [INFO] WebApp:191 - Connection restablished
+2025-07-25 18:59:53,864 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,867 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,868 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,868 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,986 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,986 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,988 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:53,988 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,082 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,083 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,083 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,084 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,161 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,161 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,162 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:56,162 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,866 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,866 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,866 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,868 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,946 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,946 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,946 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 18:59:57,946 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:03,723 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 873948904 Bytes (945815552)
+2025-07-25 19:00:05,502 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 893871848 Bytes (945815552)
+2025-07-25 19:00:05,651 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 915369704 Bytes (945815552)
+2025-07-25 19:00:05,896 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-25 19:00:05,896 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: DMA
+2025-07-25 19:00:05,897 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8F1
+2025-07-25 19:00:05,897 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: CAN
+2025-07-25 19:00:05,897 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: UART
+2025-07-25 19:00:05,897 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-25 19:00:05,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-25 19:00:05,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-07-25 19:00:05,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-25 19:00:05,898 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-25 19:00:05,901 [INFO] CodeGenerator:892 - code generatio: config db path: C:/Users/tutor/.stm32cubemx/databases/DB.6.0.141/db/
+2025-07-25 19:00:05,908 [INFO] Argument:325 - Argument : hdmavalue: null
+2025-07-25 19:00:05,908 [INFO] Argument:327 - 	 sub Args: 
+2025-07-25 19:00:05,908 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Channel1
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Channel1
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : Initvalue: null
+2025-07-25 19:00:05,909 [INFO] Argument:327 - 	 sub Args: 
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_HIGH
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_HIGH
+2025-07-25 19:00:05,909 [INFO] Argument:325 - Argument : Lockvalue: null
+2025-07-25 19:00:05,909 [INFO] Argument:335 - Argument : Lockvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : Statevalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : Statevalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : Parentvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : Parentvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2025-07-25 19:00:05,910 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2025-07-25 19:00:05,913 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:05,913 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:05,995 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\license.tmp_save
+2025-07-25 19:00:06,152 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\license.tmp
+2025-07-25 19:00:06,183 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\gpio.tmp_save
+2025-07-25 19:00:06,259 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\gpio.tmp
+2025-07-25 19:00:06,437 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\dma.tmp_save
+2025-07-25 19:00:06,495 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\dma.tmp
+2025-07-25 19:00:06,501 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\dma_GV.tmp_save
+2025-07-25 19:00:06,556 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\dma_GV.tmp
+2025-07-25 19:00:06,570 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\stm32f1xx_it.c_save
+2025-07-25 19:00:06,718 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\stm32f1xx_it.c
+2025-07-25 19:00:06,725 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\stm32f1xx_it.h_save
+2025-07-25 19:00:06,776 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\stm32f1xx_it.h
+2025-07-25 19:00:06,789 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\stm32f1xx_hal_msp.c_save
+2025-07-25 19:00:06,868 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\stm32f1xx_hal_msp.c
+2025-07-25 19:00:06,873 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\system.tmp_save
+2025-07-25 19:00:06,912 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\MXTmpFiles\system.tmp
+2025-07-25 19:00:06,924 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-07-25 19:00:06,971 [INFO] CodeEngine:345 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\stm32f1xx_hal_conf.h
+2025-07-25 19:00:06,986 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-07-25 19:00:06,988 [WARN] CodeGenerator:4259 - IP not found : null
+2025-07-25 19:00:06,994 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\main.h_save
+2025-07-25 19:00:07,056 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Inc\main.h
+2025-07-25 19:00:07,063 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\main.c_save
+2025-07-25 19:00:07,163 [INFO] CodeEngine:289 - Generated code: C:\Users\tutor\Documents\GitHub\electrical\PCB_Firmware\Cain\Cain_V1.0\Core\Src\main.c
+2025-07-25 19:00:07,462 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 206mS.
+2025-07-25 19:00:07,465 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-25 19:00:07,514 [INFO] ConfigFileManager:1595 - The Die is : DIE418
+2025-07-25 19:00:08,028 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 562mS.
+2025-07-25 19:00:08,028 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-25 19:00:08,032 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-25 19:00:11,282 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:11,283 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:11,283 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-25 19:00:11,283 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.

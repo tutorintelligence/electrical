@@ -1,0 +1,8 @@
+2025-07-18 09:13:02,446 [INFO] WebApp:194 - Connection lost
+2025-07-18 09:13:06,689 [INFO] WebApp:191 - Connection restablished
+2025-07-18 09:13:07,190 [INFO] WebApp:194 - Connection lost
+2025-07-18 09:13:07,625 [INFO] WebApp:191 - Connection restablished
+2025-07-18 16:48:23,503 [INFO] I2cTimingTraitement:330 - 0x10707DBC
+2025-07-18 16:48:23,701 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-18 16:48:23,701 [WARN] IP:2250 - vbus_sensing_enable not found: check if there is a RefParameter without a condition.
+2025-07-18 16:48:23,896 [INFO] I2cTimingTraitement:330 - 0x10707DBC
